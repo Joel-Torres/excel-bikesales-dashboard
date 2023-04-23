@@ -5,7 +5,7 @@
 
 <p>Download the Excel Project Dataset.xlsx file if you wish to view and/or have a working copy</p>
 
-![dashboard](https://github.com/Joel-Torres/excel-bikesales-dashboard/excel_bikesale_dashboard.PNG)
+![dashboard](https://github.com/Joel-Torres/excel-bikesales-dashboard/excel_bikesale_dashboard.PNG?raw=true)
 
 <ul>
   <li>
